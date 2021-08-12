@@ -1,5 +1,4 @@
 /* eslint-disable @next/next/no-img-element */
-import Link from 'next/link'
 import { SignInButton } from '../SignInButton'
 import styles from './styles.module.scss'
 import { ActiveLink } from '../ActiveLink'
