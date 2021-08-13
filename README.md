@@ -46,9 +46,9 @@ yarn test
 ```
 
 ## :hammer_and_wrench: Tecnologias utilizadas
-- [Next.js](https://nextjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
-- [Jest](https://jestjs.io/pt-BR/)
+- [Next.js](https://nextjs.org/) - Framework React que adiciona recursos como SSR, SSG e entre outros à biblioteca.
+- [Typescript](https://www.typescriptlang.org/) - Superset Javascript que adiciona tipagem estática à linguagem.
+- [Sass](https://sass-lang.com/) - Pré-processador que adiciona diversos recursos ao CSS.
+- [Jest](https://jestjs.io/pt-BR/) - Um dos frameworks mais famosos quando se trata de testes de código Javascript.
 
 Feito com :heart: por [Gabriel Souza](https://github.com/Gabrielcsg19)
