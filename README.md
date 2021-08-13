@@ -34,6 +34,12 @@ Antes de executar o projeto é necessário preencher as variáveis de ambiente:
 
 ![code2](https://user-images.githubusercontent.com/54643425/129410511-8abadfe7-9dc0-43b0-a2b9-d69e455b1cd4.png)
 
+## 🔨 Execução em ambiente de desenvolvimento
+
+```
+yarn dev
+```
+
 ## :white_check_mark: Execução dos testes
 ```
 yarn test
