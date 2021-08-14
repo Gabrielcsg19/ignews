@@ -51,4 +51,9 @@ yarn test
 - [Sass](https://sass-lang.com/) - Pré-processador que adiciona diversos recursos ao CSS.
 - [Jest](https://jestjs.io/pt-BR/) - Um dos frameworks mais famosos quando se trata de testes de código Javascript.
 
+## 🎉 Agradecimentos
+
+- [@Rocketseat](https://github.com/Rocketseat) - Plataforma de educação que "girou a chave" na minha vida.
+- [@Diego Fernandes](https://github.com/diego3g) - CTO da Rocketseat. Esse é o cara.
+
 Feito com :heart: por [Gabriel Souza](https://github.com/Gabrielcsg19)
