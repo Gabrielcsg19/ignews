@@ -6,7 +6,7 @@
 Blog por assinatura com pagamentos pelo __Stripe__ e autenticação pelo __GitHub__.
 
 ## :newspaper: Introdução
-Aplicação simples com o intuito de praticar os conhecimentos em *React*, *Typescript* e *Sass*.
+Aplicação simples criada através do Ignite da Rocketseat com o intuito de praticar os conhecimentos em *React*, *Typescript* e *Sass*.
 
 ## :clipboard: Pré-requisitos
 
