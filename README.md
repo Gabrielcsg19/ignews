@@ -45,7 +45,7 @@ yarn dev
 yarn test
 ```
 
-## :hammer_and_wrench: Tecnologias utilizadas
+## :hammer_and_wrench: Principais tecnologias utilizadas
 - [Next.js](https://nextjs.org/) - Framework React que adiciona recursos como SSR, SSG e entre outros à biblioteca.
 - [Typescript](https://www.typescriptlang.org/) - Superset Javascript que adiciona tipagem estática à linguagem.
 - [Sass](https://sass-lang.com/) - Pré-processador que adiciona diversos recursos ao CSS.
