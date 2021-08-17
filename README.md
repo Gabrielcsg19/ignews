@@ -5,7 +5,7 @@
 ---
 Blog por assinatura com pagamentos pelo __Stripe__ e autenticação pelo __GitHub__.
 
-## :newspaper: Introdução
+## 🚀 Introdução
 Aplicação criada através do Ignite da Rocketseat com o intuito de praticar os conhecimentos em *React*, *Typescript* e *Sass*. Também tem como objetivo testar a integração de pagamentos com a plataforma *Stripe*, autenticação através do *GitHub* e gerenciamento de conteúdo com o headless CMS *Prismic*.
 
 ## :clipboard: Pré-requisitos
