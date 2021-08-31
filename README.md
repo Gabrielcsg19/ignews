@@ -1,6 +1,6 @@
 <h1 align="center">ignews</h1><br>
 
-![home](https://user-images.githubusercontent.com/54643425/129405406-a9a6b650-e4ee-48b5-8e15-a3473d113944.png)
+![home](https://raw.githubusercontent.com/Gabrielcsg19/ignews/main/assets/cover-img.png)
 
 ---
 Blog por assinatura com pagamentos pelo __Stripe__ e autenticação pelo __GitHub__.
