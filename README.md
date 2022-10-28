@@ -11,7 +11,7 @@ Aplicação criada através do Ignite da Rocketseat com o intuito de praticar os
 ## :clipboard: Pré-requisitos
 
 - [Node.js 12+](https://nodejs.org/en/download/)
-- [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+- [Yarn](https://yarnpkg.com/getting-started/install)
 - Conta nos seguintes serviços (Tais possuem planos gratuitos):
   - [Stripe](https://dashboard.stripe.com/register)
   - [Prismic](https://prismic.io/dashboard/signup)
